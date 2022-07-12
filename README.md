@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeoChang369
+- 👋 Hi, I’m Leo
 - 👀 I’m interested in Game Development, Software Engineering, and Web Development
 - 💞️ I’m looking to collaborate on project that motivate me or a team full of passion and positivity
 - 📫 How to reach me: pooiting369@gmail.com
